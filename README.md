@@ -34,9 +34,6 @@ centos-6.9
 centos-6.8
 
 
-
-
-
 ## Packer Installation
 
 To install packer use this Ansible role.
