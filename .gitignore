@@ -3,3 +3,9 @@
 packer_cache/
 /.vagrant
 provision.yml
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*

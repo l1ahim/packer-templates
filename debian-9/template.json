@@ -24,9 +24,9 @@
 "guest_os_type": "Debian_64",
 "guest_additions_path": "VBoxGuestAdditions_{{.Version}}.iso",
 "http_directory": "http",
-"iso_checksum": "87368242b8332a9ae6ddf48c5265c6618cbbca0497ced6ab1c05c674ac7a7f6aac2adff0534e65976b7d8bfddf4e4e87046190b01f61fecf8a9d75ca49cc7cdf",
+"iso_checksum": "cc4a6bd50925c1c4af98049060e304494bc9da61eb5eb272c556d67608de14d4e6a4b8bc1c9412a0f810083912e228569f3771ffffa7174538f3e26f45a05245",
 "iso_checksum_type": "sha512",
-"iso_url": "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-9.7.0-amd64-netinst.iso",
+"iso_url": "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-9.8.0-amd64-netinst.iso",
 "ssh_username": "vagrant",
 "ssh_password": "vagrant",
 "ssh_port": 22,
@@ -61,7 +61,7 @@
       "type": "vagrant",
       "override": {
         "virtualbox": {
-          "output": "debian-9.3.0-x64-virtualbox.box"
+          "output": "debian-9.8.0-x64-virtualbox.box"
         }
       }
     }

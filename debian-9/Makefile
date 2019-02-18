@@ -2,7 +2,7 @@
 .PHONY: all virtualbox  vagrant_up  vagrant_clean vagrant_stop_all vagrant_status
 .SILENT:
 
-VERSION = 9.7.0
+VERSION = 9.8.0
 DISTRO  = debian
 
 all:
